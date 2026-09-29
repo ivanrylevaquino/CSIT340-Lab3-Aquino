@@ -18,7 +18,7 @@ function ProjectsSection(){
                     year = "2026"
                     title = "WildMeow"
                     description = "A Django-based enrollment management system for CIT-U."
-                    tech = "HTML · CSS · Java · Python"
+                    tech = "Django · Python · HTML · CSS" 
                     link= "https://github.com/Cybolio/WildMeow"
                 />
 
@@ -26,7 +26,7 @@ function ProjectsSection(){
                     year = "2026"
                     title = "Jeepseek"
                     description = "A web-based jeepney route/navigation application."
-                    tech = "Java · HTML"
+                    tech = "React · HTML · CSS · MySQL · Springboot"
                     link= "https://github.com/Cybolio/JeepSeek-mariadb"
                 />
 
@@ -34,7 +34,7 @@ function ProjectsSection(){
                     year = "2025"
                     title = "Click2Eat"
                     description = "A web-based food ordering system built around a MySQL database."
-                    tech = "Java · MySQL"
+                    tech = "PHP · HTML · CSS · MySQL"
                     link= "https://github.com/Cybolio/Click2Eat"
                 />
             </div>

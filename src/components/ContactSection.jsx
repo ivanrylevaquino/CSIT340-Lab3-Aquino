@@ -8,8 +8,8 @@ function ContactSection(){
             <ul className="mt-8 space-y-3">
                 <ContactLink
                     label = "Email"
-                    href = "ivan.aquino@cit.edu"
-                    text = "mailto:ivan.aquino@cit.edu"
+                    href = "mailto:ivan.aquino@cit.edu"
+                    text = "ivan.aquino@cit.edu"
                 />
                 <ContactLink
                     label = "GitHub"

@@ -1,5 +1,4 @@
 
-import SectionHeading from './SectionHeading'
 
 function ContactLink({label, href, text}) {
     return (
