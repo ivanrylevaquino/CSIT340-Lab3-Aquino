@@ -24,10 +24,10 @@ If you are developing a production application, we recommend using TypeScript wi
 - [x] Fact
 - [x] SkillsSection
 - [x] SkillTag
-- [ ] ProjectsSection
-- [ ] ProjectCard
-- [ ] ExperienceSection
-- [ ] TimelineItem
-- [ ] ontactSection
-- [ ] ContactLink
+- [x] ProjectsSection
+- [x] ProjectCard
+- [x] ExperienceSection
+- [x] TimelineItem
+- [x] ContactSection
+- [x] ContactLink
 - [x] Footer
